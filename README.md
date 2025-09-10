@@ -5,3 +5,5 @@ A "binary bomb" is a Linux executable C program that consists of six
 on stdin.  If the student enters the expected string, then that phase
 is "defused."  Otherwise the bomb "explodes" by printing "BOOM!!!".
 The goal for the students is to defuse as many phases as possible.
+
+즉, 폭탄을 찾아서 해체해야합니다. 
