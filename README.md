@@ -28,4 +28,4 @@ Bomb Lab은 C 코드로 작성된 실행 파일을 리버싱하여, 어셈블리
     0x0000000000400ee5 <+25>:    mov    %rax,%rdi
     0x0000000000400ee8 <+28>:    callq  0x401338 <strings_not_equal>
     ```
--   **Key**: Border relations with Canada have never been better.
+-   **Phase_1 Key** : Border relations with Canada have never been better.
